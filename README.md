@@ -26,10 +26,10 @@ This repository contains pre-configured conflicts and instructions to simulate a
 
 The goal of this project is to familiarize yourself with the following key concepts:
 
-1. Version Control: Understanding how to manage project code using Git. 
-2. Branching Strategies: Creating and managing branches effectively using Git Flow. 
-3. Pull Requests: Submitting and reviewing changes in GitHub through pull requests. Welce 
-4. Merge Conflicts: Resolving conflicts when multiple developers modify the same file. By the end of the project, you should be able to:  
+1. **Version Control**: Understanding how to manage project code using Git. 
+2. **Branching Strategies**: Creating and managing branches effectively using Git Flow. 
+3. **Pull Requests**: Submitting and reviewing changes in GitHub through pull requests. Welce 
+4. **Merge Conflicts**: Resolving conflicts when multiple developers modify the same file. By the end of the project, you should be able to:  
   - Create and manage branches in Git. 
   - Use GitHub pull requests for collaboration. 
   - Resolve merge conflicts manually. 
