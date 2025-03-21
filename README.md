@@ -1,3 +1,3 @@
 ## Project Title
 
-This project is amazing and unique!
+This is the best project ever!
